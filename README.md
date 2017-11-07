@@ -4,7 +4,7 @@ A snake game in Excel using VBA.
 <img src="show.gif" width="300">
 
 ## Installation & Usage
-Download the file `snake.xlsm`. Run it, enable macros and play.
+Download the file `snake.xlsm`. Open it, enable macros and play.
 
 ### Controls
 - `Ctrl + Q` - Enable/Disable the Game.
